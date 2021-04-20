@@ -48,4 +48,4 @@ Additionally, you are welcome to create any layout that you would like for your 
 
 ## Deployment
 
-Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo.
+App deployed to https://lynyong.github.io/plotly-challenge/.
